@@ -4,7 +4,8 @@ Notes, tools and scripts I have to make [GoCD](https://docs.gocd.org/current/) w
 
 ### `ensure_agent.sh`
 
-run this (it'll ask for sudo) to setup the agent service and install the other scripts
+run this (it'll ask for sudo) to setup the agent service and install the other scripts.
+It does nothing if it is already all set up
 
 
 ## agent_scripts
